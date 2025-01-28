@@ -185,6 +185,21 @@ nav ul li{
     font-size: x-small;
   }
 
+  .sidetext {
+    width: 85%;
+    height: 10rem;
+  }
+
+  .img2 {
+    width: 85%;
+    right: 0rem;
+  }
+
+  .img3 {
+    width: 85%;
+    left: 0rem;
+  }
+
   .flex-text {
     top: 35%;
     padding: 1rem;
@@ -199,6 +214,7 @@ nav ul li{
   .text2 {
     padding-left: 1rem;
     padding-right: 1rem;
+    flex-direction: column;
   }
 
   label.headertext {
