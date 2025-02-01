@@ -92,7 +92,7 @@ nav ul li{
 
 .img3 {
   position: relative;
-  height: 20rem;
+  height: 20%;
   left: 2rem;
 }
 
@@ -156,6 +156,10 @@ img {
   padding-right: 18%;
 }
 
+#bes {
+  margin-bottom: 2rem;
+}
+
 .text2 {
   position: relative;
   display: flex;
@@ -180,6 +184,10 @@ img {
 
   column-gap: 4rem;
 
+}
+
+.spacer {
+  height: 5rem;
 }
 
 @media only screen and (max-width: 900px){
