@@ -27,6 +27,7 @@ label.headertext{
 nav ul{
   float: right;
   margin-right: 30px;
+  margin-bottom: 14px;
 }
 
 nav ul li{
@@ -34,7 +35,6 @@ nav ul li{
   margin: 0 5px;
   font-family: sans-serif;
 }
-
 
 .headerdiv {
   display: flex;
@@ -85,7 +85,6 @@ nav ul li{
 
 .img2 {
   position: relative;
-  width: 40%;
   height: 20rem;
   left: 3rem;
   padding-right: 3rem;
@@ -93,7 +92,6 @@ nav ul li{
 
 .img3 {
   position: relative;
-  width: 40%;
   height: 20rem;
   left: 2rem;
 }
@@ -189,6 +187,11 @@ img {
     font-size: x-small;
   }
 
+  .line2 {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
   .sidetext {
     width: 85%;
     height: 10rem;
@@ -223,7 +226,7 @@ img {
   }
 
   label.headertext {
-    font-size: medium;
+    font-size: 25px;
   }
 
   .foot {
