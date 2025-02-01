@@ -227,6 +227,7 @@ img {
 
   label.headertext {
     font-size: 25px;
+    padding-right: 0px;
   }
 
   .foot {
