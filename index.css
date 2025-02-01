@@ -229,6 +229,10 @@ img {
     font-size: 25px;
   }
 
+  .headerdiv {
+    padding-right: 2rem;
+  }
+
   .foot {
     font-size: small;
     column-gap: 0rem;
