@@ -228,6 +228,11 @@ img {
   label.headertext {
     font-size: 25px;
     padding-right: 0px;
+    padding-left: 0px;
+  }
+
+  .headerdiv {
+    justify-content: center;
   }
 
   .foot {
@@ -243,10 +248,6 @@ img {
 
   .line3 {
     top: 0;
-  }
-
-  .img1 {
-    margin-right: 4rem;
   }
 }
 
