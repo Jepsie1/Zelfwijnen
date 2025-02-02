@@ -18,7 +18,7 @@ nav{
 
 label.headertext{
   padding-left: 40px;
-  padding-right: 90px;
+  padding-right: 40px;
   line-height: 80px;
   font-size: 35px;
   font-family: sans-serif;
@@ -54,6 +54,12 @@ nav ul li{
   width: 40%;
   margin-top: 7rem;
   margin-bottom: 7rem;
+}
+
+#stapline {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 0rem;
 }
 
 .line3 {
@@ -93,7 +99,7 @@ nav ul li{
 .img3 {
   position: relative;
   height: 20%;
-  left: 2rem;
+  left: 3rem;
 }
 
 img {
@@ -160,6 +166,10 @@ img {
   margin-bottom: 2rem;
 }
 
+#stap {
+  margin-top: 10rem;
+}
+
 .text2 {
   position: relative;
   display: flex;
@@ -188,6 +198,12 @@ img {
 
 .spacer {
   height: 5rem;
+}
+
+.lijst1 {
+  color: #ffffff;
+  font-size: larger;
+  padding-left: 20%;
 }
 
 @media only screen and (max-width: 900px){
@@ -256,6 +272,10 @@ img {
 
   .line3 {
     top: 0;
+  }
+
+  .lijst1 {
+    padding-left: 0rem;
   }
 }
 
